@@ -40,9 +40,7 @@ Tell me when you've saved it. Next, we'll prepare everything for GitHub.# Cos201
 COS 201 Computer Programming | Practical Works
 
 Submission Confirmation
-
 I have saved the source code, tested the programs, and pushed the required files to GitHub.
-
 The README file contains instructions for compiling and running the programs.
 
 Thank you.
