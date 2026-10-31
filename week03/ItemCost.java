@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class ItemCost {
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Enter item name: ");
+        String item = input.nextLine();
+
+        System.out.print("Enter quantity: ");
+        int quantity = input.nextInt();
+
+        System.out.print("Enter unit price: ");
+        double price = input.nextDouble();
+
+        double totalCost = quantity * price;
+
+        System.out.println("\nItem: " + item);
+        System.out.println("Quantity: " + quantity);
+        System.out.println("Unit Price: " + price);
+        System.out.println("Total Cost: " + totalCost);
+
+        input.close();
+    }
+}
