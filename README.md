@@ -17,7 +17,7 @@ This folder contains three Java programs:
 3. ItemCost.java – Calculates the total cost of items based on quantity and unit price.
 
 
-### SimpleCalculator
+### Compile and run instuctions
 ```bash
 javac SimpleCalculator.java
 java SimpleCalculator
