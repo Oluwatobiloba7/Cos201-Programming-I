@@ -6,7 +6,6 @@ COS 201 Computer Programming | Practical Works
 **Matriculation Number:** 25/18970  
 **Programme:** Computer Science  
 **Course:** COS 201 – Computer Programming I  
-**Week:** 3
 **GitHub Repository URL:** https://github.com/Oluwatobiloba7/Cos201-Programming-I.git
 
 ## Week 3 Practical Programs
