@@ -7,6 +7,7 @@ COS 201 Computer Programming | Practical Works
 **Programme:** Computer Science  
 **Course:** COS 201 – Computer Programming I  
 **Week:** 3
+**GitHub Repository URL:** https://github.com/Oluwatobiloba7/Cos201-Programming-I.git
 
 ## Week 3 Practical Programs
 
@@ -37,3 +38,11 @@ Press **Ctrl + S**.
 
 Tell me when you've saved it. Next, we'll prepare everything for GitHub.# Cos201-Programming-I
 COS 201 Computer Programming | Practical Works
+
+Submission Confirmation
+
+I have saved the source code, tested the programs, and pushed the required files to GitHub.
+
+The README file contains instructions for compiling and running the programs.
+
+Thank you.
