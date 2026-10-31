@@ -16,9 +16,6 @@ This folder contains three Java programs:
 2. AverageCalculator.java – Calculates the total and average of three scores.
 3. ItemCost.java – Calculates the total cost of items based on quantity and unit price.
 
-## How to Compile and Run
-
-Open the terminal inside the week03 folder.
 
 ### SimpleCalculator
 ```bash
